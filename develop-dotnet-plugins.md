@@ -2,7 +2,7 @@ Flow is written in C#, so plugins written in .Net platform can directly communic
 
 ## Initialization
 
-For C# Plugins, We recommend you use the [dotnet template](https://github.com/Flow-Launcher/dotnet-template) to generate a plugin template.
+For C# Plugins, we recommend you use the [dotnet template](https://github.com/Flow-Launcher/dotnet-template) to generate a plugin template.
 
 In order to be recognized as a Flow DotNet plugin, the directory needs to have at least two files
 1. [`plugin.json`](plugin.json.md)
